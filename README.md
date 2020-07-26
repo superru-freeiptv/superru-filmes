@@ -666,8 +666,6 @@ http://jaci.lhmtv.gq/bonus/tt8580274.mp4?LHMTv
 http://jaci.lhmtv.gq/bonus/tt8969332LEG.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Dirty Sexy Saint LEG
 http://jaci.lhmtv.gq/bonus/tt10969656LEG.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Deus é Mulher e seu Nome é Petúnia LEG
-http://jaci.lhmtv.gq/bonus/tt8054608LEG.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Um Grito de Liberdade LEG
 http://jaci.lhmtv.gq/bonus/tt10332672LEG.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Atleta A
