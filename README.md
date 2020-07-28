@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Variedades", www.listaiptv.gratis
-https://listaiptv.gratis/site.mp4
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Jornal (PE)
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
  
